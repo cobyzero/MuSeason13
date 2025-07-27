@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "JoinServerProtocol.h"
-#include "..\\..\\Util\\MD5.h"
+#include "..\\Util\\MD5.h"
 #include "AccountManager.h"
 #include "Log.h"
 #include "QueryManager.h"
