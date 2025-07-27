@@ -28,7 +28,7 @@
 #include <dbghelp.h>
 #include <Psapi.h>
 #include <stdio.h>
- 
+#include <algorithm>
 #pragma comment(lib,"ws2_32.lib")
 #pragma comment(lib,"comctl32.lib")
 #pragma comment(lib,"Rpcrt4.lib")
