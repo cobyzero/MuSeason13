@@ -85,11 +85,11 @@
 #pragma comment(lib,"Psapi.lib")
 
 #if(NDEBUG==0)
-#pragma comment(lib,"..\\..\\Util\\cryptopp\\Debug\\cryptlib.lib")
+#pragma comment(lib,"..\\Util\\cryptopp\\Debug\\cryptlib.lib")
 #else  
-#pragma comment(lib,"..\\..\\Util\\cryptopp\\Release\\cryptlib.lib")
+#pragma comment(lib,"..\\Util\\cryptopp\\Release\\cryptlib.lib")
 #endif
-#pragma comment(lib,"..\\..\\Util\\mapm\\mapm.lib")
+#pragma comment(lib,"..\\Util\\mapm\\mapm.lib")
 
 typedef char chr;
 

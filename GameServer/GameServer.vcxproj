@@ -169,8 +169,8 @@
     <None Include="small.ico" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Util\CCRC32.H" />
-    <ClInclude Include="..\..\Util\Math.h" />
+    <ClInclude Include="..\Util\CCRC32.H" />
+    <ClInclude Include="..\Util\Math.h" />
     <ClInclude Include="380ItemOption.h" />
     <ClInclude Include="380ItemType.h" />
     <ClInclude Include="allocator.h" />
@@ -414,8 +414,8 @@
     <ClInclude Include="Warehouse.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Util\CCRC32.Cpp" />
-    <ClCompile Include="..\..\Util\Math.cpp" />
+    <ClCompile Include="..\Util\CCRC32.Cpp" />
+    <ClCompile Include="..\Util\Math.cpp" />
     <ClCompile Include="380ItemOption.cpp" />
     <ClCompile Include="380ItemType.cpp" />
     <ClCompile Include="ArcaBattle.cpp" />

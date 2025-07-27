@@ -585,10 +585,10 @@
     <ClInclude Include="ItemOptionRate.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Util\CCRC32.H">
+    <ClInclude Include="..\Util\CCRC32.H">
       <Filter>Util Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Util\Math.h">
+    <ClInclude Include="..\Util\Math.h">
       <Filter>Util Files</Filter>
     </ClInclude>
     <ClInclude Include="SummonScroll.h">
@@ -1310,10 +1310,10 @@
     <ClCompile Include="ItemOptionRate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Util\CCRC32.Cpp">
+    <ClCompile Include="..\Util\CCRC32.Cpp">
       <Filter>Util Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Util\Math.cpp">
+    <ClCompile Include="..\Util\Math.cpp">
       <Filter>Util Files</Filter>
     </ClCompile>
     <ClCompile Include="SummonScroll.cpp">

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "..\\..\\Util\\mapm\\M_APM.h"
+#include "..\\Util\\mapm\\M_APM.h"
 #include "User.h"
 
 #define PROTOCOL_CODE1 0xD7
